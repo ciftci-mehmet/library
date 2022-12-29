@@ -1,4 +1,4 @@
-# library
+# library book management program
 
 Requirements:
 
